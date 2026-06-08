@@ -1,4 +1,4 @@
-const CACHE = 'ja-rccg-v3';
+const CACHE = 'ja-rccg-v2';
 const APP_SHELL = [
   './jerusalem-arena-rccg.html',
   './manifest.json',
